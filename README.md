@@ -1,6 +1,6 @@
-🪄 Magic Mirror
+🪄 INTERACTIVE WEBCAM BASED SUPERPOWER GAME
 > \*\*See Your Power. Unleash It.\*\*
-Magic Mirror is an interactive webcam-based superpower game built for the Magic & Superpower Hackathon. It transforms a normal webcam into a futuristic mirror that detects people, scans them, assigns a superpower, tracks their hand, and lets them use that power to attack targets.
+interactive webcam-based superpower game built for the Magic & Superpower . It transforms a normal webcam into a futuristic mirror that detects people, scans them, assigns a superpower, tracks their hand, and lets them use that power to attack targets.
 ✨ Features
 👤 Real-time face detection
 👥 Multi-person support
@@ -172,8 +172,7 @@ Magic Mirror combines computer vision, gesture interaction, animation, audio and
 🎙️ Voice-controlled abilities
 🤖 AI-generated power descriptions
 📱 Mobile/AR version
-🪞 Physical smart-mirror display
-🏆 Hackathon Concept
+🪞 Physical smart-mirror display(IF NEEDED)
 ```text
 WEBCAM
   +
@@ -187,6 +186,6 @@ GAME LOGIC
   +
 AUDIO
   =
-🪄 MAGIC MIRROR
+🪄 INTERACTIVE WEBCAM GAME 
 ```
 🪄 See Your Power. Unleash It.
